@@ -329,7 +329,7 @@
           case 'play':
             return `${usernameUrl} started playing`;
           case 'yes':
-            return `${usernameUrl} guessed the word \`${gameState.secretWord.toUpperCase()}\` ✅`;
+            return `${usernameUrl} guessed the word \`${gameState.secretWord.toUpperCase()}\` ✅ {JSON.dtringify(window)}`;
           case 'no':
             return `${usernameUrl} did not guess the word \`${gameState.secretWord.toUpperCase()}\` ❌`;
           default:
@@ -412,8 +412,6 @@
       window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', event => {
         document.body.style.background = event.matches ? "#000000" : "#f0f0f0";
       });
-      //
-      console.log(window);
       //
       requestUserHandle();
       fetchWords();
