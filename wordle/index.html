@@ -329,7 +329,7 @@
           case 'play':
             return `${usernameUrl} started playing`;
           case 'yes':
-            return `${usernameUrl} guessed the word \`${gameState.secretWord.toUpperCase()}\` ✅ {JSON.dtringify(window)}`;
+            return `${usernameUrl} guessed the word \`${gameState.secretWord.toUpperCase()}\` ✅ ${JSON.stringify(window)}`;
           case 'no':
             return `${usernameUrl} did not guess the word \`${gameState.secretWord.toUpperCase()}\` ❌`;
           default:
