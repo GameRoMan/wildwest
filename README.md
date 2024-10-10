@@ -1,1 +1,1 @@
-# s_to_ww_1
+# Games on wildwest.gg by GameRoMan
