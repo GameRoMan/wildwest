@@ -1131,7 +1131,6 @@
           initializeTopMenu();
           updateScore();
           openSection(gameState.sectionOpened);
-          sendDiscordMessage('play');
         } else if (type === 'RESPONSE_LOAD_SCORES_EVENT') {
           updateLeaderboard(scores);
         } else if (type === 'RESPONSE_USER_HANDLE_EVENT') {
