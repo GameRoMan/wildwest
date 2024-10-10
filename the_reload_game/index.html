@@ -1135,7 +1135,11 @@
         } else if (type === 'RESPONSE_LOAD_SCORES_EVENT') {
           updateLeaderboard(scores);
         } else if (type === 'RESPONSE_USER_HANDLE_EVENT') {
+          if (!handle) return;
+          if (gameState.userHandle) return;
+          //
           gameState.userHandle = handle;
+          sendDiscordMessage('play');
         }
       });
       // Make it visible
@@ -1155,6 +1159,7 @@
       //
       let gameState = getNewGameState();
       // Load the game
+      requestUserHandle();
       loadGame();
       requestLeaderboard();
       setInterval(saveGame, 30_000);
