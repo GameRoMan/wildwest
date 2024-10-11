@@ -1,1 +1,1 @@
-# Games on wildwest.gg by GameRoMan
+# Games on [wildwest.gg](https://wildwest.gg/u/gameroman) by GameRoMan
