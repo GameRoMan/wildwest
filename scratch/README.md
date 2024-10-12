@@ -1,1 +1,1 @@
-# Games from scratch.mit.edu
+# Games from [Scratch](https://scratch.mit.edu/) on [wildwest.gg](https://www.wildwest.gg/)
