@@ -22,6 +22,10 @@
     resultElement.style.height = '180px';
 
 
+    const oddsDisplay = document.getElementById('odds-display');
+    oddsDisplay.style.display = 'none';
+
+
     const lowDetailModeCheckbox = document.getElementById('low-detail-mode-checkbox');
     lowDetailModeCheckbox.checked = true;
     document.body.classList.add('low-detail-mode');
