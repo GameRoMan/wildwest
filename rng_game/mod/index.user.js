@@ -6,7 +6,7 @@
 // @grant           none
 // @version         1.0
 // @author          GameRoMan
-// @description     A script that adds various useful features to RNG game
+// @description     A script that adds various useful features to RNG Game
 // @downloadURL     https://github.com/GameRoMan/wildwest/raw/refs/heads/main/rng_game/mod/index.user.js
 //
 // ==/UserScript==
