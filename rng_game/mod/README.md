@@ -1,4 +1,4 @@
-# RNG Game Helper | [Install](https://raw.githubusercontent.com/InfiniteCraftCommunity/userscripts/master/userscripts/InfiniteCraftHelper/index.user.js)
+# RNG Game Helper | [Install](https://github.com/GameRoMan/wildwest/raw/refs/heads/main/rng_game/mod/index.user.js)
 
 A script that adds various useful features to RNG Game.
 
