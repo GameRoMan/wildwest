@@ -1,7 +1,7 @@
 # Scripts for [RNG Game](https://www.wildwest.gg/g/k4fDoSDdulAm)
 
-#### AutoLowDetailMode
-#### DisableOfflineRollsAlerts
+* [AutoLowDetailMode](https://www.wildwest.gg/g/k4fDoSDdulAm)
+* DisableOfflineRollsAlerts
 #### StopScreenBouncing
 #### All 3 combined
 
