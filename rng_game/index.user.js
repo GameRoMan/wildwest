@@ -1,11 +1,14 @@
 // ==UserScript==
-// @name        RNG game mod
-// @namespace   Violentmonkey Scripts
-// @match       https://g.wildwest.gg/g/69ea5b13-c66a-4cfa-9714-f120ae6810b9*
-// @grant       none
-// @version     1.0
-// @author      GameRoMan
-// @description Automatically sets lowDetailMode to True, bypasses offline-rolls alerts and stops screen from bouncing
+//
+// @name            RNG game mod
+// @namespace       Violentmonkey Scripts
+// @match           https://g.wildwest.gg/g/69ea5b13-c66a-4cfa-9714-f120ae6810b9*
+// @grant           none
+// @version         1.0
+// @author          GameRoMan
+// @description     A script that adds various useful features to RNG game
+// @downloadURL		https://github.com/GameRoMan/wildwest/edit/main/rng_game/index.user.js
+//
 // ==/UserScript==
 
 
