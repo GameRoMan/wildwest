@@ -6,7 +6,7 @@
 // @grant           none
 // @version         1.0
 // @author          GameRoMan
-// @description     Stop screen bouncing in RNG Game
+// @description     Stops screen bouncing in RNG Game
 // @downloadURL     https://github.com/GameRoMan/wildwest/raw/refs/heads/main/rng_game/StopScreenBouncing/index.user.js
 //
 // ==/UserScript==
