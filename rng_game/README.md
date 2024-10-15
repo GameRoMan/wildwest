@@ -7,4 +7,4 @@
 * [StopScreenBouncing](https://github.com/GameRoMan/wildwest/tree/main/rng_game/StopScreenBouncing)
 * [All 5 combined](https://github.com/GameRoMan/wildwest/tree/main/rng_game/mod)
 
-### by [GameRoMan](https://github.com/GameRoMan)
+### by [GameRoMan](https://www.wildwest.gg/u/gameroman)
