@@ -6,7 +6,7 @@
 // @grant           none
 // @version         1.0
 // @author          GameRoMan
-// @description     A script that adds various useful features to RNG Game
+// @description     A script that adds useful features to RNG Game
 // @downloadURL     https://github.com/GameRoMan/wildwest/raw/refs/heads/main/rng_game/mod/index.user.js
 //
 // ==/UserScript==
@@ -20,7 +20,11 @@
 
     // StopScreenBouncing
     const resultElement = document.getElementById('result');
-    resultElement.style.height = '180px';
+    resultElement.style.height = '180px';// ==UserScript==
+
+    // HideGlobalAnnouncements
+    const globalAnnouncements = document.getElementById('global-announcements');
+    globalAnnouncements.style.display = 'none';
 
     // HideOddsDisplay
     const oddsDisplay = document.getElementById('odds-display');
