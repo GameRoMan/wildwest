@@ -6,7 +6,7 @@
 * [HideGlobalAnnouncements](https://github.com/GameRoMan/wildwest/tree/main/rng_game/HideGlobalAnnouncements)
 * [HideOddsDisplay](https://github.com/GameRoMan/wildwest/tree/main/rng_game/HideOddsDisplay)
 * [StopScreenBouncing](https://github.com/GameRoMan/wildwest/tree/main/rng_game/StopScreenBouncing)
-
+*
 * [All 6 combined](https://github.com/GameRoMan/wildwest/tree/main/rng_game/mod)
 
 ### by [GameRoMan](https://www.wildwest.gg/u/gameroman)
