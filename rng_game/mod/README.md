@@ -1,5 +1,5 @@
 # RNG Game Helper | [Install](https://github.com/GameRoMan/wildwest/raw/refs/heads/main/rng_game/mod/index.user.js)
 
-#### A script that combines [AddMoreColors](https://github.com/GameRoMan/wildwest/blob/main/rng_game/AddMoreColors), [AutoLowDetailMode](https://github.com/GameRoMan/wildwest/blob/main/rng_game/AutoLowDetailMode), [DisableOfflineRollsAlerts](https://github.com/GameRoMan/wildwest/blob/main/rng_game/DisableOfflineRollsAlerts), [HideOddsDisplay](https://github.com/GameRoMan/wildwest/blob/main/rng_game/HideOddsDisplay) and [StopScreenBouncing](https://github.com/GameRoMan/wildwest/blob/main/rng_game/StopScreenBouncing)
+#### A script that combines [all of the scripts](https://github.com/GameRoMan/wildwest/edit/main/rng_game) for [RNG game](https://www.wildwest.gg/g/k4fDoSDdulAm)
 
 ### by [GameRoMan](https://github.com/GameRoMan)
