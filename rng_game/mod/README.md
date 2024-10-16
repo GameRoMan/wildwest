@@ -2,4 +2,4 @@
 
 #### A script that combines [all of the scripts](https://github.com/GameRoMan/wildwest/edit/main/rng_game) for [RNG game](https://www.wildwest.gg/g/k4fDoSDdulAm)
 
-### by [GameRoMan](https://github.com/GameRoMan)
+### by [GameRoMan](https://www.wildwest.gg/u/gameroman)
