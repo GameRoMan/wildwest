@@ -3,6 +3,7 @@
 // @name            DarkMode
 // @namespace       Violentmonkey Scripts
 // @match           https://g.wildwest.gg/g/d893cd5b-68e2-46a4-a23d-9efb65a198dd*
+// @match           https://g.wildwest.gg/g/beccb87f-c9ae-4cd6-bdc2-156e56a82da9*
 // @grant           none
 // @version         1.0
 // @author          GameRoMan
@@ -16,6 +17,8 @@
     function ApplyDarkMode() {
         document.body.style.backgroundColor = '#000000';
         document.body.style.color = '#666666';
+
+        document.getElementById('game-container').style.backgroundColor = '#111111';
 
         document.querySelectorAll('.page').forEach(element => {
             element.style.backgroundColor = '#222222';
