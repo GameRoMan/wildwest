@@ -28,10 +28,6 @@
         document.querySelectorAll('button').forEach(button => {
             button.style.backgroundColor = '#222222';
         });
-
-        document.querySelectorAll('.skill-btn').forEach(element => {
-            element.style.backgroundColor = '#222222';
-        });
     }
 
     ApplyDarkMode();
