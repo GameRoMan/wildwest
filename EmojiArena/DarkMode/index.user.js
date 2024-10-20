@@ -20,7 +20,7 @@
 
         document.getElementById('game-container').style.backgroundColor = '#111111';
 
-        document.getElementById('popup').style.backgroundColor = '#111111';
+        if (window.location.href === 'https://g.wildwest.gg/g/d893cd5b-68e2-46a4-a23d-9efb65a198dd') document.getElementById('popup').style.backgroundColor = '#111111';
 
         document.querySelectorAll('.page').forEach(element => {
             element.style.backgroundColor = '#222222';
