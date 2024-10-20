@@ -2,4 +2,4 @@
 
 #### Dark Mode for [Emoji Arena](https://www.wildwest.gg/g/MjNFBvuZtY8A)
 
-### by [GameRoMan](https://github.com/GameRoMan)
+### by [GameRoMan](https://www.wildwest.gg/u/gameroman)
