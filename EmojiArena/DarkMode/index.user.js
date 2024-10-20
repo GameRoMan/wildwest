@@ -5,7 +5,7 @@
 // @match           https://g.wildwest.gg/g/d893cd5b-68e2-46a4-a23d-9efb65a198dd*
 // @match           https://g.wildwest.gg/g/beccb87f-c9ae-4cd6-bdc2-156e56a82da9*
 // @grant           none
-// @version         1.0
+// @version         1.1
 // @author          GameRoMan
 // @description     Dark Mode for Emoji Arena
 // @downloadURL     https://github.com/GameRoMan/wildwest/raw/refs/heads/main/EmojiArena/DarkMode/index.user.js
@@ -28,10 +28,39 @@
             element.style.color  = '#666666';
         });
 
+        document.querySelectorAll('h3').forEach(element => {
+            element.style.color  = '#666666';
+        });
+
+        document.querySelectorAll('p').forEach(element => {
+            element.style.color  = '#666666';
+        });
+
         document.querySelectorAll('button').forEach(button => {
-            button.style.backgroundColor = '#222222';
+            button.style.backgroundColor = '#333333';
+            button.style.color = '#666666';
+        });
+
+        document.querySelectorAll('.skill-btn').forEach(button => {
+            button.style.backgroundColor = '#111111';
+        });
+
+        document.querySelectorAll('.battle-section').forEach(element => {
+            element.style.backgroundColor = '#111111';
+        });
+
+        document.querySelectorAll('.guide-row').forEach(element => {
+            element.style.backgroundColor = '#111111';
+        });
+
+        document.querySelectorAll('.achievement-row').forEach(element => {
+            element.style.backgroundColor = '#111111';
         });
     }
+
+    document.querySelectorAll('#nav-buttons button').forEach(button => {
+        button.addEventListener('click', ApplyDarkMode);
+    });
 
     ApplyDarkMode();
 })();
