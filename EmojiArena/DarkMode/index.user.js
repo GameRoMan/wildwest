@@ -41,6 +41,14 @@
             button.style.color = '#666666';
         });
 
+        document.querySelectorAll('.character-block').forEach(button => {
+            button.style.backgroundColor = '#111111';
+        });
+
+        document.querySelectorAll('.settings-label').forEach(button => {
+            button.style.backgroundColor = '#111111';
+        });
+
         document.querySelectorAll('.skill-btn').forEach(button => {
             button.style.backgroundColor = '#111111';
         });
